@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('./obn.css');
+
+
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: var(white);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: var(--green);
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
